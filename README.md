@@ -54,6 +54,8 @@ POSSIBILITY OF SUCH DAMAGE.
 
 Contributors
 ============
-
+* Daniel Sopel
 * Mark Galloway
 * Abram Hindle
+
+I used code from broadcast.py in https://github.com/abramhindle/WebSocketsExamples.
