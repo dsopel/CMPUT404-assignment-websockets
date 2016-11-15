@@ -58,4 +58,4 @@ Contributors
 * Mark Galloway
 * Abram Hindle
 
-I used code from broadcast.py in https://github.com/abramhindle/WebSocketsExamples.
+I used code from broadcaster.py in https://github.com/abramhindle/WebSocketsExamples.
